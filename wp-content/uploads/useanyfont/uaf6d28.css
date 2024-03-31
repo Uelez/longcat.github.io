@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'cat';
+					src: url('4057cat.woff2') format('woff2'),
+						url('4057cat.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.cat{font-family: 'cat' !important;}
+
+		
